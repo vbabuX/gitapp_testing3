@@ -6,17 +6,6 @@
   "defaultBranch": "vtest",
   "gitSubpath": "",
   "gitUrl": "https://github.com/vbabuX/gitapp_testing3",
-  "sections": [
-    {
-      "name": "Section1",
-      "icon": "Alert Filled Circle",
-      "pageDefinitionId": "d33cc102-6d37-4c1d-b1bb-f5e643a4ee7e",
-      "description": "",
-      "sections": [],
-      "accessRoles": null,
-      "privileges": null,
-      "tagIds": null
-    }
-  ],
+  "sections": [],
   "tagIds": []
 }
