@@ -4,27 +4,18 @@
   "applicationName": "delete",
   "applicationState": "DRAFT",
   "defaultBranch": "vtest",
-  "description": null,
   "gitSubpath": "",
   "gitUrl": "https://github.com/vbabuX/gitapp_testing3",
-  "icon": null,
   "sections": [
     {
       "name": "Section1",
       "icon": "Alert Filled Circle",
-      "accessRoles": null,
-      "privileges": null,
-      "description": "",
       "pageDefinitionId": "d33cc102-6d37-4c1d-b1bb-f5e643a4ee7e",
+      "description": "",
       "sections": [],
-      "tagIds": null
-    },
-    {
       "accessRoles": null,
       "privileges": null,
-      "name": "Section3",
-      "icon": "Alert Triangle Filled",
-      "sections": []
+      "tagIds": null
     }
   ],
   "tagIds": []
