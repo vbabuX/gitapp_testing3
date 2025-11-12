@@ -1,0 +1,19 @@
+{
+  "applicationId" : "7ec226c1-9dc3-4c90-a9ff-8fef9ab96ef1",
+  "applicationName" : "delete",
+  "sections" : [ {
+    "name" : "Section1",
+    "icon" : "Alert Filled Circle",
+    "pageDefinitionId" : "d33cc102-6d37-4c1d-b1bb-f5e643a4ee7e",
+    "description" : "",
+    "sections" : [ ],
+    "accessRoles" : null,
+    "privileges" : null
+  } ],
+  "accessRoles" : [ ],
+  "tagIds" : [ ],
+  "applicationState" : "DRAFT",
+  "gitUrl" : "https://github.com/vbabuX/gitapp_testing3",
+  "defaultBranch" : "vtest",
+  "applicationI18nFiles" : [ ]
+}
